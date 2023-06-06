@@ -9,119 +9,124 @@ clone the Github repository and create a django admin interface.
 ### Step 2:
 With HTML and CSS code for designing book cover and execute them.
 ## Code:
-'''
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
 <style>
-  bookpage{
- width: 400px;
- height: 600px;
- color:crimson;
- margin-left: auto;
- margin-right: auto;
- padding: 20px;
- font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial,
-sans-serif;
- background-image: url(/static/images/back.png);
- background-size: cover;
- }
-
- .insight{
- color: blue;
- }
-
- .hrstyle{
- width:100px;
- }
- .author{
-
- display: inline;
- position: relative;
- color: purple;
- top:190px;
-
- font-family:Georgia;
- font-size: medium;
- }
- .booktitle{
- font-family: 'Courier New', Courier, monospace;
- font-size: larger;
- text-align: center;
- position: relative;
- top: 30px;
-
- }
- .id {
- width:400px;
- position: relative;
- top:180px;
-
- }
- .pub{
+.bookpage{
+width: 400px;
+height: 600px;
+color:crimson;
+margin-left: auto;
+margin-right: auto;
+padding: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-image: url(/static/images/back.png);
+background-size: cover;
+}
+.insight{
+color: blue;
+}
+.hrstyle{
+width:100px;
+}
+.author{
+display: inline;
+position: relative;
+color: purple;
+top:190px;
+font-family:Georgia;
 font-size: medium;
- position: relative;
- top:155px;
- left:330px;
- }
- .ed{
- color:orange;
- font-size: medium;
- font-family: Verdana;
- position:relative;
- top:85px;
- }
- .subtitle{
- font-family:Tahoma;
- font-size: large;
- position: relative;
- top:40px;
- }
- .mypic{
- position: relative;
- top: 135px;
- left: 260px;
- width: 100px;
- height: 100px;
- background-size: cover;
- }
- </style>
- <title>Book Cover Page</title>
+}
+.booktitle{
+font-family: 'Courier New', Courier, monospace;
+font-size: larger;
+text-align: center;
+position: relative;
+top: 30px;
+}
+.id {
+width:400px;
+position: relative;
+top:180px;
+}
+.pub{
+font-size: medium;
+position: relative;
+top:155px;
+left:330px;
+}
+.ed{
+color:orange;
+font-size: medium;
+font-family: Verdana;
+position:relative;
+top:85px;
+}
+.subtitle{
+font-family:Tahoma;
+font-size: large;
+position: relative;
+top:40px;
+}
+.mypic{
+position: relative;
+top: 135px;
+left: 260px;
+width: 100px;
+height: 100px;
+background-size: cover;
+}
+</style>
+<title>Book Cover Page</title>
 </head>
 <body>
- <div class="bookpage">
- <div class="insight">
- SEC INSIGHT
- </div>
- <div class="hrstyle">
- <hr style="color: red;">
- </div>
- <div class="booktitle">
- <h1>Coding for beginners</h1></div>
- <div class="subtitle">
- C,C++,Python and more.
- </div>
- <div class="mypic">
- <img src="/static/images/my.png" width="130" height="145"
-alt="">
- </div>
- <div class="id">
- <hr style="color: indigo;">
-   <hr style="color: indigo;">
- </div>
- <div class="author">
- <p><b>Gracia ravi</b></p>
- </div>
- <div class="pub">
- SEC
- </div>
- <div class="ed">
- <b>Sixth Edition</b>
- </div>
- </div>
-</body>
-
+<div class="bookpage">
+<div class="insight">
+SEC INSIGHT
+</div>
+<div class="hrstyle">
+<hr style="color: red;">
+</div>
+<div class="booktitle">
+<h1>Coding for beginners</h1></div>
+<div class="subtitle">
+C,C++,Python and more.
+</div>
+<div class="mypic">
+<img src="/static/images/my.jpg" width="130" height="145" alt="">
+</div>
+<div class="id">
+<hr style="color: indigo;">
+</div>
+<div class="author">
+```
+Output:
+Result:
+The program for designing book cover page using HTML and CSS is executed successfully.
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+<p><b>Gracia D</b></p>
+</div>
+<div class="pub">
+SEC
+</div>
+<div class="ed">
+<b>Seventh Edition</b>
+</div>
+</div>
 ## Output:
-![image](https://github.com/gracia55/cover-page-design/assets/129026838/f3cfab86-bfbc-419b-8b84-27d673f8be1f)
+![image](https://github.com/gracia55/cover-page-design/assets/129026838/cfb0d311-55cf-4bde-851c-b0961c73b6b3)
+
 ## HTML Validator:
-![image](https://github.com/gracia55/cover-page-design/assets/129026838/aa5abed4-2623-4df6-b540-b23c90abe72b)
+![image](https://github.com/gracia55/cover-page-design/assets/129026838/01287fd2-709b-471a-a016-e03efb40b6c4)
 
 ## Result:
 The program for designing book cover page using HTML and CSS is executed successfully.
