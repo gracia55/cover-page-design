@@ -123,7 +123,7 @@ SEC
 </div>
 </div>
 ## Output:
-![image](https://github.com/gracia55/cover-page-design/assets/129026838/cfb0d311-55cf-4bde-851c-b0961c73b6b3)
+![image](https://github.com/gracia55/cover-page-design/assets/129026838/db11b5c4-b023-470f-ba3d-343510e0625d)
 
 ## HTML Validator:
 ![image](https://github.com/gracia55/cover-page-design/assets/129026838/01287fd2-709b-471a-a016-e03efb40b6c4)
