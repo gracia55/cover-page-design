@@ -1,21 +1,19 @@
 # cover-page-design
-## AIM:
+# AIM:
 To develop a website to display the cover page design of a book
-
-## Design Steps:
-
-### Step 1:
+# Design Steps:
+# Step 1:
 clone the Github repository and create a django admin interface.
-### Step 2:
+# Step 2:
 With HTML and CSS code for designing book cover and execute them.
-## Code:
+# Code:
 ```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta name="viewport"
-content="width=device-width, initial-scale=1.0">
 <style>
+Code Pull requests Actions Projects Wiki Security Insights
+gracia55
+Preview Code Blame Raw
+cover-page-design/README.md at main · gracia55/cover-page-des... https://github.com/gracia55/cover-page-design/blob/main/README.md
+1 of 5 09-05-2023, 09:45
 .bookpage{
 width: 400px;
 height: 600px;
@@ -23,7 +21,8 @@ color:crimson;
 margin-left: auto;
 margin-right: auto;
 padding: 20px;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial,
+sans-serif;
 background-image: url(/static/images/back.png);
 background-size: cover;
 }
@@ -54,6 +53,8 @@ position: relative;
 top:180px;
 }
 .pub{
+cover-page-design/README.md at main · gracia55/cover-page-des... https://github.com/gracia55/cover-page-design/blob/main/README.md
+2 of 5 09-05-2023, 09:45
 font-size: medium;
 position: relative;
 top:155px;
@@ -97,36 +98,37 @@ SEC INSIGHT
 C,C++,Python and more.
 </div>
 <div class="mypic">
-<img src="/static/images/my.jpg" width="130" height="145" alt="">
+<img src="/static/images/my.png" width="130" height="145"
+alt="">
 </div>
 <div class="id">
 <hr style="color: indigo;">
+cover-page-design/README.md at main · gracia55/cover-page-des... https://github.com/gracia55/cover-page-design/blob/main/README.md
+3 of 5 09-05-2023, 09:45
+<hr style="color: indigo;">
 </div>
 <div class="author">
-```
-Output:
-Result:
-The program for designing book cover page using HTML and CSS is executed successfully.
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-<p><b>Gracia D</b></p>
+<p><b>Gracia R</b></p>
 </div>
 <div class="pub">
 SEC
 </div>
 <div class="ed">
-<b>Seventh Edition</b>
+<b>Sixth Edition</b>
 </div>
 </div>
-## Output:
-![image](https://github.com/gracia55/cover-page-design/assets/129026838/db11b5c4-b023-470f-ba3d-343510e0625d)
+</body>
+cover-page-design/README.md at main · gracia55/cover-page-des... https://github.com/gracia55/cover-page-design/blob/main/README.md
+4 of 5 09-05-2023, 09:45
 
-## HTML Validator:
-![image](https://github.com/gracia55/cover-page-design/assets/129026838/01287fd2-709b-471a-a016-e03efb40b6c4)
+```
+# Output:
+![image](https://github.com/gracia55/cover-page-design/assets/129026838/656279b7-66dd-4770-90f9-ca8135a7400e)
 
-## Result:
-The program for designing book cover page using HTML and CSS is executed successfully.
+# HTML Validator:
+
+![image](https://github.com/gracia55/cover-page-design/assets/129026838/bd6423c8-ae2f-44e5-8883-b6847d278498)
+
+# Result:
+The program for designing book cover page using HTML and CSS is executed
+successfully
